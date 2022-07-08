@@ -1,0 +1,1 @@
+dans le répertoire du projet (courant) -> npm start 
